@@ -1,0 +1,75 @@
+.quize-page{
+    height: 500px;
+    width: 700px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #ffffff;
+    text-align: center;
+    
+}
+.quize-page h1{
+    font-size: 30px;
+    color: #1f2933;
+}
+.quize-page p{
+    font-size: 30px;
+    color: #323f4b;
+}
+.quize-page img{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 3pc;
+}
+.container{
+    width: 115vh;
+    height: auto;
+    background-color: #875fc0;
+    margin: 50px;
+    padding: 50px;
+    /* align-items: center; */
+}
+.quize-page2{
+    height: 520px;
+    width: 700px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #ffffff;
+    text-align: center;
+    
+}
+.quize{
+    width: 550px;
+    height: 60px;
+    border: 1px solid #323f4b;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 30px; /* Add gap above */
+    margin-bottom: 30px; /* Add gap below */
+    margin-right: 10%; /* Add gap on the right */
+    font-size: 25px;
+    color: #1f2933 ;
+    text-align: left;
+    padding-left: 20px;
+    
+   
+  
+}
+.quize-button{
+    width: 120px;
+    height: 50px;
+    border: 1px solid #323f4b;
+    background-color: #fbaf00;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 30px; /* Add gap above */
+    margin-bottom: 30px; /* Add gap below */
+    margin-right: 10%; /* Add gap on the right */
+    font-size: 25px;
+    color: #ffff ;
+    text-align: center;
+   
+  
+}
+
+
